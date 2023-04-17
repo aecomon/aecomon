@@ -84,7 +84,6 @@ ivanv@MSI MINGW64 ~/homework/folder1
 $ curl http://162.55.220.72:5005/terminal-hw-request
 ___
 $ nano task.sh
-
 #!/bin/bash
 #
 cd newtask
