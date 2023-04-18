@@ -83,6 +83,7 @@ ___
 ivanv@MSI MINGW64 ~/homework/folder1
 $ curl http://162.55.220.72:5005/terminal-hw-request
 ___
+```
 $ nano task.sh
 #!/bin/bash
 #
@@ -93,7 +94,7 @@ touch file1.txt file2.txt file3.txt file1.json file2,json
 mkdir dir1 dir2 dir3
 ls -la
 mv file1.txt file3.txt \dir3
-
+```
 
 
 
